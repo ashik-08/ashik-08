@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Rahman Ashik</h1>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="flex: 1;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px">
+    <div style="flex: 1">
         <h3 align="center">Welcome to my GitHub profile! I'm a passionate web developer from Bangladesh with a knack for creating awesome web experiences. I specialize in front-end and back-end technologies, and I love turning ideas into reality through code.</h3>
     </div>
-    <div style="flex: 1;">
-        <img align="center" height="280" src="./images/programmer.gif" />
+    <div>
+        <img height="250" src="./images/programmer.gif" alt="coding" />
     </div>
 </div>
 
@@ -115,15 +115,15 @@ When I'm not coding, you can find me exploring new movies and tv-series. Fun fac
 # 📝 Profile Summary
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
+    <img height="250" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
 </div>
 
 <br />
@@ -133,6 +133,6 @@ When I'm not coding, you can find me exploring new movies and tv-series. Fun fac
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together! 🚀
 
-[<p align="center"><img height="75" src="./images/fb.png">](https://www.facebook.com/ashikurrahman.ashik.568632)
-[<img height="75" src="./images/twitter.png">](https://twitter.com/ashikurrahman81)
-[<img height="75" src="./images/linkedIn.png"> </p>](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3)
+[<p align="center"><img height="75" src="./images/fb.png">](https://facebook.com/ashikurrahman.ashik.568632/)
+[<img height="75" src="./images/twitter.png">](https://twitter.com/ashikurrahman81/)
+[<img height="75" src="./images/linkedIn.png"> </p>](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/)
