@@ -5,12 +5,8 @@
 <h1 align="center">Hi 👋, I'm Md. Ashikur Rahman Ashik</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px">
-    <div style="flex: 1">
-        <h3 align="center">Welcome to my GitHub profile! I'm a passionate web developer from Bangladesh with a knack for creating awesome web experiences. I specialize in front-end and back-end technologies, and I love turning ideas into reality through code.</h3>
-    </div>
-    <div>
-        <img height="250" src="./images/programmer.gif" alt="coding" />
-    </div>
+    <h3 style="flex: 1" align="center">Welcome to my GitHub profile! I'm a passionate web developer from Bangladesh with a knack for creating awesome web experiences. I specialize in front-end and back-end technologies, and I love turning ideas into reality through code.</h3>
+    <img height="250" src="./images/programmer.gif" alt="coding" />
 </div>
 
 <br />
@@ -99,11 +95,11 @@ Feel free to ask me about anything related to web development, from front-end de
 
 ## 📫 How to reach me
 
-You can reach out to me on [Email](ashikurrahman.8october@gmail.com) or [Facebook](https://www.facebook.com/ashikurrahman.ashik.568632) or [LinkedIn](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3). I'm always open to connecting with fellow developers and tech enthusiasts.
+You can reach out to me on [Email](mailto:ashikurrahman.8october@gmail.com) or [Facebook](https://www.facebook.com/ashikurrahman.ashik.568632) or [LinkedIn](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3). I'm always open to connecting with fellow developers and tech enthusiasts.
 
 ## 🔗 All of my projects are available at
 
-Check out my GitHub repositories [here](https://github.com/ashik-08). You'll find a mix of personal projects and contributions to open-source initiatives.
+Check out my GitHub repositories [here](https://github.com/ashik-08?tab=repositories). You'll find a mix of personal projects and contributions to open-source initiatives.
 
 ## 🎉 Fun fact
 
@@ -133,6 +129,6 @@ When I'm not coding, you can find me exploring new movies and tv-series. Fun fac
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together! 🚀
 
-[<p align="center"><img height="75" src="./images/fb.png">](https://facebook.com/ashikurrahman.ashik.568632/)
+[<p align="center"> <img height="75" src="./images/linkedIn.png">](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/)
 [<img height="75" src="./images/twitter.png">](https://twitter.com/ashikurrahman81/)
-[<img height="75" src="./images/linkedIn.png"> </p>](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/)
+[<img height="75" src="./images/fb.png"> </p>](https://www.facebook.com/ashikurrahman.ashik.568632)
