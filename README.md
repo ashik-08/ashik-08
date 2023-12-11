@@ -3,10 +3,12 @@
 <br />
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Rahman Ashik</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate web developer from Bangladesh with a knack for creating awesome web experiences. I specialize in front-end and back-end technologies and I love turning ideas into reality through code.</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px">
-    <h3 align="left">Welcome to my GitHub profile! I'm a passionate <br /> web developer from Bangladesh with a knack for <br/> creating awesome web experiences. I specialize in <br/> front-end and back-end technologies, and I love <br/> turning ideas into reality through code.</h3>
-    <img align="right" height="250" src="./images/programmer.gif" alt="coding" />
+<br />
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img height="300" src="./images/programmer.gif" alt="coding" />
 </div>
 
 <br />
