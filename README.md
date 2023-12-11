@@ -19,13 +19,13 @@
 
 # 💻 Recent Projects
 
-### [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
+### 1. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
 - **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS
 - [Live Link](https://a12-contest-hub.web.app)
 
-### [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
+### 2. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
 
 - **_Description:_** Flavor Fusion is a Restaurant Management Website where a user can do the following tasks:
 
@@ -38,7 +38,7 @@
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS
 - [Live Link](https://a11-flavor-fusion.web.app)
 
-### [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
+### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
 
 - **_Description:_** GearShift Autos is an Automotive Brand Website where a user can do the following tasks:
 
@@ -58,7 +58,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,react,firebase,nodejs,express,mongodb,vercel,vscode,figma,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,react,firebase,nodejs,express,mongodb,vercel,vscode,figma,c&perline=8" />
     </a>
 </p>
 
@@ -133,13 +133,13 @@ When I'm not coding, you can find me watching new movies and tv-series. Fun fact
 Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together! 🚀
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/" target="_blank">
+    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/">
         <img height="75" src="./images/linkedIn.png" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/ashikurrahman81/" target="_blank">
+    <a href="https://twitter.com/ashikurrahman81/">
         <img height="75" src="./images/twitter.png" alt="Twitter">
     </a>
-    <a href="https://www.facebook.com/ashikurrahman.ashik.568632" target="_blank">
+    <a href="https://www.facebook.com/ashikurrahman.ashik.568632">
         <img height="75" src="./images/fb.png" alt="Facebook">
     </a>
 </p>
