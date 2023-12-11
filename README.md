@@ -106,7 +106,8 @@ Check out my GitHub repositories [here](https://github.com/ashik-08?tab=reposito
 
 ## 🎉 Fun fact
 
-When I'm not coding, you can find me watching new movies and tv-series. Fun fact: I like to think about a magical world and fancy the creatures dinosaur & dragon.
+When I'm not coding, you can find me watching new movies and tv-series. <br />
+***Fun fact: I like to think about a magical world and fancy the creatures dinosaur & dragon.***
 
 <br />
 <br />
