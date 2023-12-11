@@ -27,7 +27,7 @@
 
 ### 2. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
 
-- **_Description:_** Flavor Fusion is a Restaurant Management Website where a user can do the following tasks:
+- **_Description:_** Flavor Fusion is a restaurant management website developed using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website enables users to explore and manage food items, including viewing all items, details of a single item, adding a new food item, deleting an item, and modifying an item. The design focuses on visual appeal, color contrast, proper alignment, and space utilization for an enhanced user experience.
 
 1.  See All Food Items
 2.  See Single item
@@ -40,7 +40,7 @@
 
 ### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
 
-- **_Description:_** GearShift Autos is an Automotive Brand Website where a user can do the following tasks:
+- **_Description:_** GearShift Autos is an automotive brand website built using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website showcases various car brands, providing detailed information on each car, including images, prices, types, ratings, and descriptions. Users can explore a wide range of vehicles from different manufacturers. The website incorporates user-friendly authentication through Firebase, allowing users to create accounts and access personalized features. Private routes ensure that only registered users can access certain functionalities, enhancing security and customization. The shopping experience is personalized, with registered users able to create and manage their own shopping carts, adding and removing items as needed. The backend is powered by MongoDB, providing efficient data handling for brands, cars, and user carts. The website is deployed on Vercel for the server-side and Firebase for the client-side, ensuring optimal performance and scalability.
 
 1.  See All Brand Items
 2.  See Single brand item
