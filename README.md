@@ -122,7 +122,7 @@ When I'm not coding, you can find me watching new movies and tv-series. Fun fact
 </p>
 <p align="center">
     <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
-    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=6" alt="commits" />
 </p>
 
 <br />
