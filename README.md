@@ -7,9 +7,9 @@
 
 <br />
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center; align-items: center;">
     <img height="300" src="./images/programmer.gif" alt="coding" />
-</div>
+</p>
 
 <br />
 <br />
@@ -115,14 +115,14 @@ When I'm not coding, you can find me exploring new movies and tv-series. Fun fac
 <div align="center">
     <img height="250" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
 </div>
-<div align="center">
+<!-- <div align="center"> -->
     <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
     <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
-</div>
-<div align="center">
+<!-- </div> -->
+<!-- <div align="center"> -->
     <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
     <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
-</div>
+<!-- </div> -->
 
 <br />
 <br />
