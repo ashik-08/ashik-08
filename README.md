@@ -22,7 +22,7 @@
 ### 1. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
 - **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS
+- **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a12-contest-hub.web.app)
 
 ### 2. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
@@ -35,7 +35,7 @@
 4.  Delete An Item
 5.  Modify An Item
 
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS
+- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a11-flavor-fusion.web.app)
 
 ### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
@@ -48,7 +48,7 @@
 4.  Delete An Automotive Item
 5.  Modify An Automotive Item
 
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS
+- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a10-gearshift-autos.web.app)
 
 <br />
