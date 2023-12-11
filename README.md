@@ -12,7 +12,6 @@
 </p>
 
 <br />
-<br />
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ashik-08&label=Profile%20views&color=0e75b6&style=flat" alt="profile-visitor" />
@@ -58,7 +57,9 @@
 # 🛠️ Technologies & Tools that I Know
 
 <p align="center">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,react,firebase,nodejs,express,mongodb,vercel,vscode,figma,c" />
+    </a>
 </p>
 
 <br />
@@ -116,12 +117,12 @@ When I'm not coding, you can find me watching new movies and tv-series. Fun fact
     <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
 </p>
 <p align="center">
-    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
-    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
 </p>
 <p align="center">
-    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
-    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
+    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
 </p>
 
 <br />
@@ -131,6 +132,14 @@ When I'm not coding, you can find me watching new movies and tv-series. Fun fact
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together! 🚀
 
-[<p align="center"> <img height="75" src="./images/linkedIn.png">](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/)
-[<img height="75" src="./images/twitter.png">](https://twitter.com/ashikurrahman81/)
-[<img height="75" src="./images/fb.png"> </p>](https://www.facebook.com/ashikurrahman.ashik.568632)
+<p align="center">
+    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/" target="_blank">
+        <img height="75" src="./images/linkedIn.png" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/ashikurrahman81/" target="_blank">
+        <img height="75" src="./images/twitter.png" alt="Twitter">
+    </a>
+    <a href="https://www.facebook.com/ashikurrahman.ashik.568632" target="_blank">
+        <img height="75" src="./images/fb.png" alt="Facebook">
+    </a>
+</p>
