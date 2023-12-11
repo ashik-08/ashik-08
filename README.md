@@ -7,7 +7,7 @@
 
 <br />
 
-<p style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
     <img height="300" src="./images/programmer.gif" alt="coding" />
 </p>
 
@@ -105,24 +105,24 @@ Check out my GitHub repositories [here](https://github.com/ashik-08?tab=reposito
 
 ## 🎉 Fun fact
 
-When I'm not coding, you can find me exploring new movies and tv-series. Fun fact: I like both magic and dinosaurs.
+When I'm not coding, you can find me watching new movies and tv-series. Fun fact: I like to think about a magical world and fancy the creature dinosaur.
 
 <br />
 <br />
 
 # 📝 Profile Summary
 
-<div align="center">
-    <img height="250" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
-</div>
-<!-- <div align="center"> -->
-    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
-    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
-<!-- </div> -->
-<!-- <div align="center"> -->
-    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
-    <img height="215" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
-<!-- </div> -->
+<p align="center">
+    <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashik-08&theme=2077" alt="profile-details" />
+</p>
+<p align="center">
+    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashik-08&theme=2077" alt="top-language-by-repo" />
+    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashik-08&theme=2077" alt="top-language-by-commit" />
+</p>
+<p align="center">
+    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashik-08&theme=2077" alt="profile-stat" />
+    <img height="280" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashik-08&theme=2077&utcOffset=8" alt="commits" />
+</p>
 
 <br />
 <br />
