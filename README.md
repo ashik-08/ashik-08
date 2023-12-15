@@ -21,7 +21,7 @@
 
 ### 1. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
-- **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
+- **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities, and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
 
 - **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a12-contest-hub.web.app)
@@ -96,7 +96,7 @@ Check out my GitHub repositories [here](https://github.com/ashik-08?tab=reposito
 ## 🎉 Fun fact
 
 When I'm not coding, you can find me watching new movies and TV series. <br />
-***Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. :')***
+***Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. 😄***
 
 <br />
 <br />
