@@ -22,31 +22,20 @@
 ### 1. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
 - **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
+
 - **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a12-contest-hub.web.app)
 
 ### 2. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
 
-- **_Description:_** Flavor Fusion is a restaurant management website developed using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website enables users to explore and manage food items, including viewing all items, details of a single item, adding a new food item, deleting an item, and modifying an item. The design focuses on visual appeal, color contrast, proper alignment, and space utilization for an enhanced user experience.
-
-1.  See All Food Items
-2.  See Single item
-3.  Add A Food item
-4.  Delete An Item
-5.  Modify An Item
+- **_Description:_** Flavor Fusion is a restaurant management website developed using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website enables users to explore and manage food items, including viewing all items, and details of a single item, adding a new food item, deleting an item, and modifying an item. The design focuses on visual appeal, color contrast, proper alignment, and space utilization for an enhanced user experience.
 
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a11-flavor-fusion.web.app)
 
 ### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
 
-- **_Description:_** GearShift Autos is an automotive brand website built using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website showcases various car brands, providing detailed information on each car, including images, prices, types, ratings, and descriptions. Users can explore a wide range of vehicles from different manufacturers. The website incorporates user-friendly authentication through Firebase, allowing users to create accounts and access personalized features. Private routes ensure that only registered users can access certain functionalities, enhancing security and customization. The shopping experience is personalized, with registered users able to create and manage their own shopping carts, adding and removing items as needed. The backend is powered by MongoDB, providing efficient data handling for brands, cars, and user carts. The website is deployed on Vercel for the server-side and Firebase for the client-side, ensuring optimal performance and scalability.
-
-1.  See All Brand Items
-2.  See Single brand item
-3.  Add An Automotive item
-4.  Delete An Automotive Item
-5.  Modify An Automotive Item
+- **_Description:_** GearShift Autos is an automotive brand website built using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website showcases various car brands, providing detailed information on each car, including images, prices, types, ratings, and descriptions. Users can explore a wide range of vehicles from different manufacturers. The website incorporates user-friendly authentication through Firebase, allowing users to create accounts and access personalized features. Private routes ensure that only registered users can access certain functionalities, enhancing security and customization. The shopping experience is personalized, with registered users able to create and manage their shopping carts, adding and removing items as needed. The backend is powered by MongoDB, providing efficient data handling for brands, cars, and user carts. The website is deployed on Vercel for the server side and Firebase for the client side, ensuring optimal performance and scalability.
 
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a10-gearshift-autos.web.app)
@@ -54,7 +43,7 @@
 <br />
 <br />
 
-# 🛠️ Technologies & Tools that I Know
+# 🛠️ Technologies & Tools That I Know
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -106,8 +95,8 @@ Check out my GitHub repositories [here](https://github.com/ashik-08?tab=reposito
 
 ## 🎉 Fun fact
 
-When I'm not coding, you can find me watching new movies and tv-series. <br />
-***Fun fact: I like to think about a magical world and fancy the creatures dinosaur & dragon.***
+When I'm not coding, you can find me watching new movies and TV series. <br />
+***Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. :')***
 
 <br />
 <br />
