@@ -23,6 +23,11 @@
 
 - **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities, and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
 
+- ***Key Features:***
+    1. Role-specified dashboard for Admin, Contest Creator and Participant.
+    2. User authentication with JWT for security.
+    3. Stripe card payment to register for a contest.
+
 - **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a12-contest-hub.web.app)
 
@@ -30,12 +35,22 @@
 
 - **_Description:_** Flavor Fusion is a restaurant management website developed using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website enables users to explore and manage food items, including viewing all items, and details of a single item, adding a new food item, deleting an item, and modifying an item. The design focuses on visual appeal, color contrast, proper alignment, and space utilization for an enhanced user experience.
 
+- ***Key Features:***
+    1. Only authorized users can add, edit or delete menu items.
+    2. Secure user authentication system integrated.
+    3. Popular and top-selling food items based on order frequency.
+
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a11-flavor-fusion.web.app)
 
 ### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
 
 - **_Description:_** GearShift Autos is an automotive brand website built using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website showcases various car brands, providing detailed information on each car, including images, prices, types, ratings, and descriptions. Users can explore a wide range of vehicles from different manufacturers. The website incorporates user-friendly authentication through Firebase, allowing users to create accounts and access personalized features. Private routes ensure that only registered users can access certain functionalities, enhancing security and customization. The shopping experience is personalized, with registered users able to create and manage their shopping carts, adding and removing items as needed. The backend is powered by MongoDB, providing efficient data handling for brands, cars, and user carts. The website is deployed on Vercel for the server side and Firebase for the client side, ensuring optimal performance and scalability.
+
+- ***Key Features:***
+    1. Personalized shopping experience with user specific carts.
+    2. Enhanced user experience with dark and light theme toggle.
+    3. User-friendly authentication with firebase and security features with JWT and Cookie.
 
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a10-gearshift-autos.web.app)
@@ -96,7 +111,7 @@ Check out my GitHub repositories [here](https://github.com/ashik-08?tab=reposito
 ## 🎉 Fun fact
 
 When I'm not coding, you can find me watching new movies and TV series. <br />
-***Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. 😄***
+***Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. 😄 <br> Currently lost in the world of witcher's, maze, elves, beasts and mens.***
 
 <br />
 <br />
@@ -126,7 +141,7 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
     <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/">
         <img height="75" src="./images/linkedIn.png" alt="LinkedIn">
     </a>
-    <a style="margin-left: 40px; margin-right: 40px;" href="https://twitter.com/ashikurrahman81/">
+    <a style="margin-left: 30px; margin-right: 30px;" href="https://twitter.com/ashikurrahman81/">
         <img height="75" src="./images/twitter.png" alt="Twitter">
     </a>
     <a href="https://www.facebook.com/ashikurrahman.ashik.568632">
