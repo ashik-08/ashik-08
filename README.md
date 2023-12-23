@@ -126,7 +126,7 @@ Feel free to explore my repositories and connect with me. Let's collaborate and 
     <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/">
         <img height="75" src="./images/linkedIn.png" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/ashikurrahman81/">
+    <a style={margin-left: '5px'} href="https://twitter.com/ashikurrahman81/">
         <img height="75" src="./images/twitter.png" alt="Twitter">
     </a>
     <a href="https://www.facebook.com/ashikurrahman.ashik.568632">
