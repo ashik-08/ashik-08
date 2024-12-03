@@ -85,7 +85,7 @@
 
 ## 🚀 I’m currently working on
 
-I'm currently working on building scalable and user-friendly web applications, leveraging my skills in React for the front end and Node.js with Express for the back end. My focus is on creating seamless and engaging user experiences.
+I am currently focused on building scalable and user-friendly web applications, utilizing my expertise in React for the front end and Node.js with Express for the back end. My approach prioritizes delivering seamless and engaging user experiences. For the past three months, I have been meticulously developing one of my most ambitious large-scale web applications from inception to production readiness. Every aspect—from conceptualizing the idea to analyzing business processes, relationships, use cases, design, and tackling complex engineering challenges—has been thoroughly planned and executed. If you'd like, I’d be delighted to share insights into the project’s progress and my development journey over a cup of coffee. Let me know!
 
 ## 🤝 I'm looking to collaborate on
 
@@ -97,7 +97,7 @@ I'm always eager to learn and improve. If you have expertise in areas like perfo
 
 ## 📖 I'm currently learning
 
-I'm currently diving deeper into Node.js and Express.js, exploring advanced React patterns and Three.js, and enhancing my skills in responsive design with Tailwind CSS and Material UI.
+I'm currently diving deeper into Node.js and Express.js, exploring advanced React patterns and Next.js, and enhancing my skills in responsive design with Tailwind CSS, Shadcn and Material UI.
 
 ## ❓ Ask me about
 
@@ -105,15 +105,15 @@ Feel free to ask me about anything related to web development, from front-end de
 
 ## 📫 How to reach me
 
-You can reach out to me on [Email](mailto:ashikurrahman.8october@gmail.com) or [Facebook](https://www.facebook.com/ashikurrahman.ashik.568632) or [LinkedIn](https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3). I'm always open to connecting with fellow developers and tech enthusiasts.
+You can reach out to me on [Email](mailto:ashikurrahman.8october@gmail.com) or [Facebook](https://www.facebook.com/ashikurrahman.ashik.568632) or [LinkedIn](https://www.linkedin.com/in/ashik08/). I'm always open to connecting with fellow developers and tech enthusiasts.
 
 ## 🔗 All of my projects are available at
 
-Check out my GitHub repositories [here](https://github.com/ashik-08?tab=repositories). You'll find a mix of personal projects and contributions to open-source initiatives.
+Check out my GitHub repositories [here](https://github.com/ashik-08?tab=repositories). You'll find a mix of personal projects, team projects and contributions to open-source initiatives.
 
 ## 🎉 Fun fact
 
-When I'm not coding, you can find me watching new movies and TV series. <br />
+You can find me watching new movies and TV series when I'm not coding. <br />
 **_Fun fact: I like to think about a magical world and fancy the creatures dinosaurs & dragons. 😄 <br> Currently lost in the world of witcher's, maze, elves, mens and beasts._**
 
 <br />
@@ -138,10 +138,10 @@ When I'm not coding, you can find me watching new movies and TV series. <br />
 
 # 🌐 Let's Connect
 
-Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together! 🚀
+Please feel free to explore my repositories and reach out to me. Let's collaborate and create amazing things together! 🚀
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-1b51231a3/">
+    <a href="https://www.linkedin.com/in/ashik08/">
         <img height="75" src="./images/linkedIn.png" alt="LinkedIn">
     </a>
     <a style="margin-left: 30px; margin-right: 30px;" href="https://twitter.com/ashikurrahman81/">
