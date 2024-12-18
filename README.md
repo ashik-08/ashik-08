@@ -29,8 +29,8 @@
   2. Tour Management and Booking: Developed a feature-rich tour management module that enables users to view available tours, join tours and make payments. The system handles tour bookings, processes payments through Stripe and sends booking confirmation emails             using SendGrid. This feature enhances the user experience by providing a comprehensive solution for managing and booking tours.
   3. Tour Guide Appointment Scheduling: Created an appointment scheduling system for tour guides, allowing users to view guide profiles, book appointments and receive confirmation emails. This feature streamlines the process of scheduling appointments with tour             guides, providing users with a convenient and efficient solution.
 
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
-- [Live Link](https://a11-flavor-fusion.web.app)
+- **_Technologies:_** Node.js, Express.js, Mongoose, Stripe, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI, Axios, Tanstack Query
+- [Live Link](https://trippie-app-client.vercel.app)
 
 ### 2. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
