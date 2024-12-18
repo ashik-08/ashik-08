@@ -19,7 +19,20 @@
 
 # 💻 Recent Projects
 
-### 1. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
+### 1. [Trippie](https://github.com/ashik-08/trippie-app-client)
+
+- **_Description:_** Trippie is a comprehensive travel management application designed to streamline the process of booking hotels, joining tours, viewing guide profiles and making appointments with tour guides. The application provides a seamless and user-friendly experience by integrating various external services for authentication, payment processing and email notifications.
+
+- **_Key Features:_**
+
+  1. Comprehensive Hotel Booking System: Implemented a robust hotel booking system that allows users to search for hotels, view detailed information, select rooms and make bookings. The system integrates with MongoDB for data storage and Stripe for secure payment           processing. Users receive booking confirmation emails via SendGrid, ensuring a seamless and user-friendly experience.
+  2. Tour Management and Booking: Developed a feature-rich tour management module that enables users to view available tours, join tours and make payments. The system handles tour bookings, processes payments through Stripe and sends booking confirmation emails             using SendGrid. This feature enhances the user experience by providing a comprehensive solution for managing and booking tours.
+  3. Tour Guide Appointment Scheduling: Created an appointment scheduling system for tour guides, allowing users to view guide profiles, book appointments and receive confirmation emails. This feature streamlines the process of scheduling appointments with tour             guides, providing users with a convenient and efficient solution.
+
+- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
+- [Live Link](https://a11-flavor-fusion.web.app)
+
+### 2. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
 - **_Description:_** ContestHub is the ultimate platform where innovation meets recognition! ContestHub is a dynamic and user-friendly Contest Creation Platform designed to foster creativity, engage communities, and celebrate talent across various domains. Whether you're organizing a design competition, coding challenge, or any other creative contest, ContestHub is your go-to destination for seamless contest creation and efficient winner selection.
 
@@ -32,7 +45,7 @@
 - **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a12-contest-hub.web.app)
 
-### 2. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
+### 3. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
 
 - **_Description:_** Flavor Fusion is a restaurant management website developed using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website enables users to explore and manage food items, including viewing all items, and details of a single item, adding a new food item, deleting an item, and modifying an item. The design focuses on visual appeal, color contrast, proper alignment, and space utilization for an enhanced user experience.
 
@@ -45,7 +58,7 @@
 - **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a11-flavor-fusion.web.app)
 
-### 3. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
+### 4. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
 
 - **_Description:_** GearShift Autos is an automotive brand website built using React, React Router, Tailwind CSS, DaisyUI, Material Tailwind, Firebase, MongoDB, Node.js, and Express.js. The website showcases various car brands, providing detailed information on each car, including images, prices, types, ratings, and descriptions. Users can explore a wide range of vehicles from different manufacturers. The website incorporates user-friendly authentication through Firebase, allowing users to create accounts and access personalized features. Private routes ensure that only registered users can access certain functionalities, enhancing security and customization. The shopping experience is personalized, with registered users able to create and manage their shopping carts, adding and removing items as needed. The backend is powered by MongoDB, providing efficient data handling for brands, cars, and user carts. The website is deployed on Vercel for the server side and Firebase for the client side, ensuring optimal performance and scalability.
 
