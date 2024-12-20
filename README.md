@@ -29,7 +29,7 @@
   2. Tour Management and Booking: Developed a feature-rich tour management module that enables users to view available tours, join tours and make payments. The system handles tour bookings, processes payments through Stripe and sends booking confirmation emails             using SendGrid. This feature enhances the user experience by providing a comprehensive solution for managing and booking tours.
   3. Tour Guide Appointment Scheduling: Created an appointment scheduling system for tour guides, allowing users to view guide profiles, book appointments and receive confirmation emails. This feature streamlines the process of scheduling appointments with tour             guides, providing users with a convenient and efficient solution.
 
-- **_Technologies:_** Node.js, Express.js, Mongoose, Stripe, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI, Axios, Tanstack Query
+- **_Technologies:_** Express.js, Mongoose, Stripe, Firebase, React, React Router, Tailwind CSS, Material Tailwind, DaisyUI, Axios, Tanstack Query, JWT
 - [Live Link](https://trippie-app-client.vercel.app)
 
 ### 2. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
@@ -41,8 +41,11 @@
   1. Role-specified dashboard for Admin, Contest Creator and Participant.
   2. User authentication with JWT for security.
   3. Stripe card payment to register for a contest.
+  4. Responsive designs.
+  5. Use of modern JavaScript.
+  6. Compatibility across browsers.
 
-- **_Technologies:_** Node.js, Mongoose, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
+- **_Technologies:_** Express.js, Mongoose, Firebase, React, React Router, Tailwind CSS, Material Tailwind, DaisyUI, JWT, Stripe
 - [Live Link](https://a12-contest-hub.web.app)
 
 ### 3. [Flavor Fusion](https://github.com/ashik-08/a11-flavor-fusion-client)
@@ -54,8 +57,11 @@
   1. Only authorized users can add, edit or delete menu items.
   2. Secure user authentication system integrated.
   3. Popular and top-selling food items based on order frequency.
+  4. Responsive designs.
+  5. Use of modern JavaScript.
+  6. Compatibility across browsers.
 
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
+- **_Technologies:_** Express.js, MongoDB, Firebase, React, React Router, Tailwind CSS, Material Tailwind, DaisyUI, Tanstack Query
 - [Live Link](https://a11-flavor-fusion.web.app)
 
 ### 4. [GearShift Autos](https://github.com/ashik-08/a10-gearshift-autos-client)
@@ -68,7 +74,7 @@
   2. Enhanced user experience with dark and light theme toggle.
   3. User-friendly authentication with firebase and security features with JWT and Cookie.
 
-- **_Technologies:_** Node.js, MongoDB, Firebase, React, Tailwind CSS, Material Tailwind, DaisyUI
+- **_Technologies:_** Node.js, MongoDB, Firebase, React, React Router, Tailwind CSS, Material Tailwind, DaisyUI
 - [Live Link](https://a10-gearshift-autos.web.app)
 
 <br />
