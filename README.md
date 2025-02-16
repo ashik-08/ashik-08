@@ -30,7 +30,7 @@
   3. Tour Guide Appointment Scheduling: Created an appointment scheduling system for tour guides, allowing users to view guide profiles, book appointments and receive confirmation emails. This feature streamlines the process of scheduling appointments with tour             guides, providing users with a convenient and efficient solution.
 
 - **_Technologies:_** Express.js, Mongoose, Stripe, Firebase, React, React Router, Tailwind CSS, Material Tailwind, DaisyUI, Axios, Tanstack Query, JWT
-- [Live Link](https://trippie-app-client.vercel.app)
+- [Live Link](https://travel-with-trippie.web.app)
 
 ### 2. [Contest Hub](https://github.com/ashik-08/a12-contest-hub-client)
 
